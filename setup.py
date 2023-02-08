@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-	name='my_package',
-	version='0.1',
+	name='my_package2',
+	version='dev',
 	description='A sample Python package',
-	author='Tim Potter',
-	author_email='tpot@frungy.org',
-	packages=['my_package'],
+	author='n-j-p',
+
+	packages=['my_package2'],
 	install_requires=[
 	],
 )
