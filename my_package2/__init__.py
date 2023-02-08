@@ -1,1 +1,1 @@
-from .foo import foo, add_one
+from .foo import *
